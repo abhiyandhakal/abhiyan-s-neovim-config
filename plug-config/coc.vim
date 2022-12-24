@@ -1,4 +1,3 @@
-
 " May need for vim (not neovim) since coc.nvim calculate byte offset by count
 " utf-8 byte sequence.
 set encoding=utf-8
